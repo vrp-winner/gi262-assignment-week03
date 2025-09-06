@@ -19,8 +19,8 @@ namespace Assignment
 {
     public class Assignment_Testcase
     {
-        // private const string namespaceName = "Assignment03.StudentSolution";
-        private const string namespaceName = "Assignment03.FinalSolution";
+        private const string namespaceName = "Assignment.StudentSolution";
+        // private const string namespaceName = "Assignment03.FinalSolution";
 
         private readonly string[] expectedClasses = {
             "Entity", "Player", "Enemy", "MeleeEnemy", "RangeEnemy", "Troll", "Orc",
